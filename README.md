@@ -1,6 +1,9 @@
-# NGOWeb
+# UIEstimator
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.14.
+
+Currently the Angular CLI is not stable with recent npm install from the registry by todate.
+An old repository has been used in place to build the UI for Covid 19 estimator
 
 ## Development server
 
